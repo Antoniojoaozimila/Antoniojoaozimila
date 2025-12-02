@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=28&duration=4000&pause=1000&color=2AFF2A&background=000000&center=true&vCenter=true&width=600&lines=+++%24+whoami+Antonio_Zimila;+++%24+cat+profile.txt;Backend+Developer;Infra+Learner;Open+Source+Enthusiast" alt="Terminal Header" />
 </div>
 
-<img align="right" alt="Antonio Coding" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Antonio Coding" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k1dzR6dmRxaDQ5NXk5cWhzbWJxNWtvemdrd2l0aGlqNXM1Z3J6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" />
 
 # 👋 Olá, eu sou António Zimila!
 
@@ -45,35 +45,6 @@ Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e efici
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antoniojoaozimila&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniojoaozimila&layout=compact&theme=radical&hide_border=true)
-  
-</div>
-
----
-
-## 🐍 Snake Game de Commits
-![Snake animation](https://raw.githubusercontent.com/Antoniojoaozimila/Antoniojoaozimila/output/github-contribution-grid-snake.svg)
-
----
-
-## 📂 Projetos em Destaque
-
-### **🛒 [API de E-commerce](https://github.com/Antoniojoaozimila/ecommerce-api)**
-API RESTful desenvolvida com Node.js e Express para sistema de e-commerce completo com autenticação JWT e pagamentos.
-
-### **🏢 [Sistema de Gerenciamento](https://github.com/Antoniojoaozimila/management-system)**
-Sistema full-stack desenvolvido com Spring Boot + React para gestão empresarial, criado durante atuação na Creative Solutions MZ.
-
-### **📱 [App Mobile Task Manager](https://github.com/Antoniojoaozimila/task-manager-app)**
-Aplicativo mobile de gerenciamento de tarefas usando React Native com Expo, sincronização em tempo real.
-
----
 
 ## 📈 Minha Jornada
 
